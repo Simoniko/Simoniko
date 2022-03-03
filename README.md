@@ -1,4 +1,5 @@
-Working on a roblox game...
+simoniko@linux:~$ cat Desktop/aboutme.txt
+I am working on a roblox heist game, nothing sus.
 
 <!--
 **Simoniko/Simoniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
